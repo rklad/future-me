@@ -1,3 +1,18 @@
-.bg-hero-image {
-background-image:url(imgs/marketing\ landing\ pg.webp)
+.landing {
+    background-image:url(imgs/marketing\ landing\ pg.webp);
+    background-repeat:no-repeat;
+    background-size:cover;
+    height:30vh;
+    background-position: center;
+}
+
+.landingtitle {
+    font-size:50px;
+    color:black;
+}
+
+.textbackground {
+    background-color: white;
+    border: solid 5px black;
+    border-radius: 5%
 }
