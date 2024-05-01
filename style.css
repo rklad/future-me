@@ -7,12 +7,26 @@
 }
 
 .landingtitle {
-    font-size:50px;
+    font-size:6vw;
     color:black;
 }
 
 .textbackground {
     background-color: white;
     border: solid 5px black;
-    border-radius: 5%
+}
+
+.overview {
+    background-color: blue;
+    height:100vh;
+}
+
+.education {
+    background-color: red;
+    height:100vh;
+}
+
+.earnings {
+    background-color: green;
+    height:100vh;
 }
