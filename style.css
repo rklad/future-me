@@ -17,7 +17,7 @@
 }
 
 .overview {
-    background-color: blue;
+    background-color: rgb(33, 178, 214);
     height:100vh;
 }
 
@@ -29,4 +29,16 @@
 .earnings {
     background-color: green;
     height:100vh;
+}
+
+.h-overview {
+    font-size:5vw;
+}
+
+.info-overview {
+    font-size:2.5vw;
+}
+
+.tatum {
+    border: white solid 5px;
 }
