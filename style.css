@@ -17,13 +17,13 @@
 }
 
 .overview {
-    background-color: rgb(33, 178, 214);
-    height:100vh;
+    background-color: rgb(236, 234, 234);
+    height:fit-content;
 }
 
 .education {
-    background-color: red;
-    height:100vh;
+    background-color: rgb(226, 202, 202);
+    height:fit-content;
 }
 
 .earnings {
@@ -39,6 +39,7 @@
     font-size:2.5vw;
 }
 
-.tatum {
-    border: white solid 5px;
+.subway {
+    border: rgb(0, 0, 0) solid 5px;
+    border-radius:5px;
 }
